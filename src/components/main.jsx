@@ -3,7 +3,7 @@ export default function Main() {
     <main className="h-[93%] w-full ">
       <section className="w-full h-full bg-gradient-to-br from-rose-200/20 via-purple-200/20 to-blue-200/40  ">
         <div className="flex w-full ">
-          <div className=" pt-5 w-[80%] flex justify-end items-center ">
+          <div className="pt-5 w-full lg:w-[80%] flex justify-center lg:justify-end items-center">
             <div className="flex flex-col gap-8">
               <div className="flex w-full flex-col gap-3 text-center lg:text-start ">
                 <h1
